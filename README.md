@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ani-0206
-- 👀 I’m interested in Software Dev
-- 🌱 I’m currently learning Spring
+- 👋 Hi, I’m Aniban
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me anirbandas0206@gmail.com
 
